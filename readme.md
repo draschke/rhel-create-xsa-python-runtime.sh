@@ -1,8 +1,8 @@
-# This code was inspired by the examples provided in the Python repository of the SAP HANA Academy on GitHub
+# Create XSA Python Runtime
 
-# You can find more examples and resources at <https://github.com/saphanaacademy/python>
+## This code was inspired by the examples provided in the Python repository of the SAP HANA Academy on GitHub. You can find more examples and resources at <https://github.com/saphanaacademy/python>
 
-## Run this script to create a new XSA Python runtime
+### Run this script to create a new XSA Python runtime
 
 ```bash
 Usage: 
