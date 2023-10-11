@@ -3,7 +3,7 @@
 # This script builds a Python runtime from source code and deploys it to XS Advanced.
 
 # Put the Python tarball in this mount directory: ${python_tarball_mnt_directory}/
-python_tarball_mnt_directory="/mnt/00-orig/Linux/Python3"
+python_tarball_mnt_directory="/mnt/your_mount_directory"
 
 ESC_START="\e[1;33m"
 ESC_START2="\e[33m"
